@@ -1,0 +1,137 @@
+/* Inserta tu codigo aqui */
+
+/* Responsive */
+
+@media screen and (max-width : 920px) {
+
+}
+
+@media screen and (max-width: 600px) {
+
+}
+.font{
+	font-family: Courgette;
+}
+.back{
+	background-image: url("../image/header-image.jpg");
+	background-size: 100% 100%;
+	padding: 20%;
+}
+.logo{
+	width: 40%;
+	height: 40%;
+	margin-left: 20%;
+}	
+.text-orange{
+	color: orange;
+	font-style: cursive;
+}
+.text-white{
+	color: white;
+}
+.text-center{
+	text-align: center;
+}
+.fondo{
+	background-color: #330066;
+	margin-left: 5%;
+	border-radius: 5%;
+	opacity: 0.5;
+	width: 90%;
+	opacity: 0.9;
+
+}
+form{
+	background-color: black;
+	padding: 2% 2%;
+	opacity: 0.9;
+	margin-left: 2%;
+	width: 95%;
+	margin-top:10%;
+	margin-bottom: 10%;
+	
+
+}
+.list{
+	text-decoration: none;
+	display: inline-block;
+	list-style: none;
+	margin-left: 4%;
+
+}
+.black{
+	background-color: black;
+	width: 100%;
+	height: 200%;
+	margin-left:5%;
+
+	
+}
+.flowers{
+	padding: 4%;
+}
+.bck{
+	background-color: #0a001a;
+
+}
+.purple{
+	background-color: #1a0033;
+	opacity: 0.9;
+	
+}
+.footer{
+	background-color: #0a001a;
+	padding: 2%;
+}
+.text-left{
+	text-align: left;
+}
+.redes{
+	margin-left: 2%;
+	padding: 2%;
+	width: 10%;
+	height: 10%;
+}
+
+.align{
+	margin-left: 15%;
+
+}
+#size{
+	font-size: 500%;
+	text-shadow:blue;
+}
+h2,p,h3{
+	background-color: black;
+	padding: 2% 2%;
+	opacity: 0.9;
+	margin-top: -3%;
+	margin-left: 2%;
+	width: 95%;
+}
+span{
+	background-color: black;
+	opacity: 0.9;
+	margin-left: 2%;
+	width: 80%;
+	padding: 1%;
+} 
+ .flowers:hover{
+
+    transform:scale(0.8);
+    -webkit-transform:scale(0.8); // Safari and Chrome 
+ 
+}
+
+
+.flor :hover{
+-webkit-transform:rotateZ (-30deg);
+-ms-transform:rotateZ (-30deg);
+transform:rotateZ (-30deg);
+}
+.black:hover{
+	background: fuchsia;
+	opacity: 0.6;
+	font-style: italic;
+	color:purple;
+}
